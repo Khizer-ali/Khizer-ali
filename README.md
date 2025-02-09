@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khizer-ali
-- 👀 I’m interested in data sciences
+- 👀 I’m interested in machine learning
 - 🌱 I’m currently doing computer sciences fron National University of Technology Islamabad
 - 📫 How to reach me , its simple, email me at alikhizer1947@gmail.com.
 
